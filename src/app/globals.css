@@ -8,6 +8,10 @@
   --header-text: #563097;
   --mainHeadingcolour: #623CAB;
 }
+*{
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
 
 .header {
   display: flex;
